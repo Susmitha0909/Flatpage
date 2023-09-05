@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.homepage {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.homepage-card {
+    background-color: #fff;
+    border-radius: 20px 20px 0px 0px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.homepage-card-head,
+.sectionSupriseavenue-head,
+.one {
+    font-size: 20px;
+    color: #f19116;
+    margin: 10px 10px;
+}
+
+.homepage-card-paragraph {
+    color: #6c6b70;
+    font-weight: 600;
+}
+
+.paragraph {
+    color: #fff;
+    font-weight: 600;
+}
+
+.button {
+    background-color: #f19116;
+    color: #fff;
+    margin: 10px;
+}
+
+#sectionSupriseavenue,
+.flat {
+    background-color: #222222;
+}
+
+.block {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 20px 10px;
+}
+
+.imgbox {
+    height: 150px;
+    border-radius: 20px;
+
+}
+
+.img {
+    height: 100%;
+}
+
+.text-box {
+    padding: 10px;
+}
+
+.tittle {
+    font-size: 20px;
+}
+
+.summary {
+    font-size: 10px;
+    color: #6c6b70;
+}
+
+.topsection-banner {
+    width: 100%;
+}
+
+.loction {
+    height: 30px;
+}
+
+.line {
+    border: 1px solid #fff;
+}
